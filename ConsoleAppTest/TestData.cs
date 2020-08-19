@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppTest
 {
-    class Program
+   public class TestData
     {
-        static void Main(string[] args)
-        {
-
-            //hello this is a test project
-          
-        }
+        //This class will have test data
     }
 }
